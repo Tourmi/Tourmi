@@ -4,10 +4,10 @@ Software & Game Developer
 ## Interests
 - Game development
 - Machine Learning
-- Statistics
+- Math & Statistics
 - Software Development
 
-## Learned Technologies
+## Learned Skills
 - Languages
   - C#
   - C++
@@ -20,6 +20,10 @@ Software & Game Developer
   - Unity
   - Unreal Engine
   - Monogame
+- DevOps & CI/CD
+  - Github Actions
+  - Azure DevOps Pipelines
+  - Ansible & OpenTofu
 - Other
   - SQL (MSSQL, SQLite, MySQL, etc)
   - Web Development
